@@ -1,1 +1,15 @@
 @import "tailwindcss";
+
+@theme {
+  --color-custom-sky-blue: #c8d8e5;
+  --color-custom-blue: #2c6777;
+  --color-custom-gray: #f4f4f4;
+  --color-custom-dark-mode-dark-blue: #01586b;
+  --color-custom-green: #52ab99;
+
+  --color-custom-dark-mode-green: #3eb29b;
+}
+
+:root {
+  --circle-width: 20px;
+}
